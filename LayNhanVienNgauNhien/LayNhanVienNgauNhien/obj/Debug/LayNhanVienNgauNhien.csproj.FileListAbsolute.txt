@@ -1,0 +1,10 @@
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\bin\Debug\LayNhanVienNgauNhien.exe.config
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\bin\Debug\LayNhanVienNgauNhien.exe
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\bin\Debug\LayNhanVienNgauNhien.pdb
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.csproj.AssemblyReference.cache
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.Properties.Resources.resources
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.csproj.GenerateResource.cache
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.csproj.CoreCompileInputs.cache
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.exe
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.pdb
+D:\HOC TAP\Lamviec\Laydongngaunhien\LayNhanVienNgauNhien\LayNhanVienNgauNhien\obj\Debug\LayNhanVienNgauNhien.Toolvanphong.resources
